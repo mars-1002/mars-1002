@@ -4,11 +4,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-1002&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-1002&layout=compact&theme=transparent" />
     <br><br><br> 
-    <h2>about me</h2>
-    <h3>boston-based softrware engineer with an interest in mechatronics. I like working on projects and being able to test the limits of what i'm able to achieve. I want the ideas I bring to life to be a reflection of me.</h3>
+    <h2>About me</h2>
+    <h3>Boston-based softrware engineer with an interest in mechatronics. I like working on projects and being able to test the limits of what i'm able to achieve. I want the ideas I bring to life to be a reflection of me.</h3>
     <br>
     <hr>
-    <h2>profiecient with</h2>
+    <h2>Proficient with</h2>
     <div>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
@@ -32,7 +32,7 @@
         <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </div>
     <hr>
-    <h2>what I use</h2>
+    <h2>What I use</h2>
     <div>
         <h3>Desktop</h3>
         <div>
