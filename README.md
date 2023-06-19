@@ -6,10 +6,9 @@
     <br><br><br> 
     <h2>about me</h2>
     <h3>boston-based softrware engineer with an interest in mechatronics. I like working on projects and being able to test the limits of what i'm able to achieve. I want the ideas I bring to life to be a reflection of me.</h3>
-    <br><br>
-    <hr><br>
-    <h2>profiecient with</h2>
     <br>
+    <hr>
+    <h2>profiecient with</h2>
     <div>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
@@ -32,22 +31,19 @@
         <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
         <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </div>
-    <br><hr><br>
+    <hr>
     <h2>what I use</h2>
-    <br>
     <div>
         <h3>Desktop</h3>
-        <ul style="list-style-type: none;">
-            <li>Windows 10 - WSL 2 Ubuntu</li>
-            <li>i7-9700k - RTX 2070 - 64GB RAM</li>
-            <li> </li> 
-        </ul>
+        <div>
+            <p>Windows 10 - WSL 2 Ubuntu</p>
+            <p>i7-9700k - RTX 2070 - 64GB RAM</p> 
+        </div>
         <h3>Laptops</h3>
-        <ul style="list-style-type: none;">
-            <li>Macbook Air m1 (2020) - Macbook Pro 15" (2015)</li>
-            <li>Ventura - Linux Mint</li>
-            <li> </li> 
-        </ul>
+        <div>
+            <p>Macbook Air m1 (2020) - Macbook Pro 15" (2015)</p>
+            <p>Ventura - Linux Mint</p>
+        </div>
     </div>
     <br>
     <div>
