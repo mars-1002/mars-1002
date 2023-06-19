@@ -7,7 +7,6 @@
     <h2>About me</h2>
     <h3>Boston-based softrware engineer with an interest in mechatronics. I like working on projects and being able to test the limits of what i'm able to achieve. I want the ideas I bring to life to be a reflection of me.</h3>
     <br>
-    <hr>
     <h2>Proficient with</h2>
     <div>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -31,7 +30,6 @@
         <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
         <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </div>
-    <hr>
     <h2>What I use</h2>
     <div>
         <h3>Desktop</h3>
